@@ -1,6 +1,4 @@
 HI!  I'm Asher,
-I am started to learn Python a few months ago, and I am interested in mastering it.  After I master Python I want to master C and C++ as well as Java.  I also want to learn some
-Assembly language as well, but one thing at a time.
+I started learning Python 3 years ago.  Lately I started learning JavaScript and ReactJS, so I can continue my programming journey.  So I now know two programming languges.
 
-I am looking for people to learn with, people to bounce ideas off of, and fresh eyes to look at my code when it doesn't work and vice verse.  
-You can email me at greena@rogers.com.
+I love to learn and I can't wait to sink my brain into C#, C++ and other languages as well.
